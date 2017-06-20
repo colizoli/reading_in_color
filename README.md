@@ -1,6 +1,6 @@
 # reading_in_color
 Developed for our "training synesthesia" experiments.
-This code was made to work in Microsoft Office (and should also work in Excel, although it has not been verified). 
+This code was made to work in Microsoft Word (and should also work in Excel, although it has not been verified). 
 
 There are several variations of the basic code provided:
 
