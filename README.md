@@ -1,18 +1,18 @@
 # reading_in_color
-Developed for our "training synesthesia" experiments.
+## Developed for our "training synesthesia" experiments.
 This code was made to work in Microsoft Word (and should also work in Excel, although it has not been verified). 
 
-There are several variations of the basic code provided:
+### There are several variations of the basic code provided:
 
 (1) In the published version of the experiment, 4 letters were selected to have 4 colors for a single individual (100% consistent). 
 
-Colizoli, O., Murre, J. M., Scholte, H. S., & Rouw, R. (2017). Creating Colored Letters: Familial Markers of Grapheme–Color Synesthesia in Parietal Lobe Activation and Structure. Journal of Cognitive Neuroscience (in press).
+* Colizoli, O., Murre, J. M., Scholte, H. S., & Rouw, R. (2017). Creating Colored Letters: Familial Markers of Grapheme–Color Synesthesia in Parietal Lobe Activation and Structure. Journal of Cognitive Neuroscience (in press).
 
-Colizoli, O., Murre, J. M., Scholte, H. S., van Es, D. M., Knapen, T., & Rouw, R. (2016). Visual cortex activity predicts subjective experience after reading books with colored letters. Neuropsychologia, 88, 15-27.
+* Colizoli, O., Murre, J. M., Scholte, H. S., van Es, D. M., Knapen, T., & Rouw, R. (2016). Visual cortex activity predicts subjective experience after reading books with colored letters. Neuropsychologia, 88, 15-27.
 
-Colizoli, O., Murre, J. M., & Rouw, R. (2014). Training synesthetic letter-color associations by reading in color. Journal of visualized experiments: JoVE, (84). (OPEN ACCESS)
+* Colizoli, O., Murre, J. M., & Rouw, R. (2014). Training synesthetic letter-color associations by reading in color. Journal of visualized experiments: JoVE, (84). (OPEN ACCESS)
 
-Colizoli, O., Murre, J. M., & Rouw, R. (2012). Pseudo-synesthesia through reading books with colored letters. PloS one, 7(6), e39799. (OPEN ACCESS)
+* Colizoli, O., Murre, J. M., & Rouw, R. (2012). Pseudo-synesthesia through reading books with colored letters. PloS one, 7(6), e39799. (OPEN ACCESS)
 
 (2) The alphabet of one developmental synesthete is given as an example of genuine synesthesia. 
 
