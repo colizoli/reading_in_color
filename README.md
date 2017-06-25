@@ -10,9 +10,9 @@ This code was made to work in Microsoft Word (and should also work in Excel, alt
 
 * Colizoli, O., Murre, J. M., Scholte, H. S., van Es, D. M., Knapen, T., & Rouw, R. (2016). Visual cortex activity predicts subjective experience after reading books with colored letters. Neuropsychologia, 88, 15-27.
 
-* Colizoli, O., Murre, J. M., & Rouw, R. (2014). Training synesthetic letter-color associations by reading in color. Journal of visualized experiments: JoVE, (84). (OPEN ACCESS)
+* Colizoli, O., Murre, J. M., & Rouw, R. (2014). Training synesthetic letter-color associations by reading in color. Journal of visualized experiments: JoVE, (84). [OPEN ACCESS](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039799)
 
-* Colizoli, O., Murre, J. M., & Rouw, R. (2012). Pseudo-synesthesia through reading books with colored letters. PloS one, 7(6), e39799. (OPEN ACCESS)
+* Colizoli, O., Murre, J. M., & Rouw, R. (2012). Pseudo-synesthesia through reading books with colored letters. PloS one, 7(6), e39799. [OPEN ACCESS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4126805/)
 
 (2) The alphabet of one developmental synesthete is given as an example of genuine synesthesia. 
 
