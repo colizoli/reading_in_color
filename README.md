@@ -4,7 +4,7 @@ This code was made to work in Microsoft Word (and should also work in Excel, alt
 
 ### There are several variations of the basic code provided:
 
-(1) In the published version of the experiment, 4 letters were selected to have 4 colors for a single individual (100% consistent). 
+(1) 'participant_training_synesthesia.bas': In the published version of the experiment, 4 letters were selected to have 4 colors for a single individual (100% consistent). 
 
 * Colizoli, O., Murre, J. M., Scholte, H. S., & Rouw, R. (2017). Creating Colored Letters: Familial Markers of Grapheme–Color Synesthesia in Parietal Lobe Activation and Structure. Journal of Cognitive Neuroscience (in press).
 
@@ -14,9 +14,9 @@ This code was made to work in Microsoft Word (and should also work in Excel, alt
 
 * Colizoli, O., Murre, J. M., & Rouw, R. (2012). Pseudo-synesthesia through reading books with colored letters. PloS one, 7(6), e39799. [OPEN ACCESS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4126805/)
 
-(2) The alphabet of one developmental synesthete, [Caitlin Gianniny](http://caitlingianniny.com), is given as an example of genuine synesthesia. Her personal website is a good source of information about her own synesthesia, as well as synesthesia related to art and society.
+(2) 'synesthete.bas': The alphabet of one developmental synesthete, [Caitlin Gianniny](http://caitlingianniny.com), is given as an example of genuine synesthesia. Her personal website is a good source of information about her own synesthesia, as well as synesthesia related to art and society.
 
-(3) In unpublished experiments, I varied the consistency of the colored letters (at 25% and 75%). For example, 'a' is red 75% of the time, and for the other 25% of occurences of 'a' one of the other 3 colors is randomly drawn. Please note that the 'inconsistent' versions of this code take a long time to run on novel-length documents (~40,000 words or more). I was only able to successfully run these on a MAC computer (not a DELL PC). (If anyone can optimize this code, please contribute!)
+(3) 'consistency25/75.bas': In unpublished experiments, I varied the consistency of the colored letters (at 25% and 75%). For example, 'a' is red 75% of the time, and for the other 25% of occurences of 'a' one of the other 3 colors is randomly drawn. Please note that the 'inconsistent' versions of this code take a long time to run on novel-length documents (~40,000 words or more). I was only able to successfully run these on a MAC computer (not a DELL PC). (If anyone can optimize this code, please contribute!)
 
 Email me if you would like a copy of a closed access publication. 
 
